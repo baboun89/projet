@@ -1,0 +1,47 @@
+header
+{
+    background-color: #afeeee;
+}
+h1
+{
+    padding: 50px ;
+    margin-top: 10px;
+    text-align: center;
+    color: #34495e;
+    text-transform:uppercase;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+img
+{
+   /* margin-left: 1500px;
+    margin-bottom: 50px;*/
+    float: right;
+    padding-bottom: 200px;
+    border-radius: 125px;
+   
+}
+ul li
+{
+  list-style: none;
+   display: inline ;
+   font-size: 30px;
+   padding-right: 30px;
+   text-transform:uppercase;
+   font-family: sans-serif;
+}
+p
+{
+    text-align: center;
+    font-size: 15px;
+}
+
+#groupe1
+{
+    padding: 100px;
+}
+#ligne
+{
+    color: brown;
+    text-align: center;
+}
