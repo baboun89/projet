@@ -44,14 +44,9 @@ p
     position: relative;top: 100px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
-#groupe1
-{
-    
-}
 #philippe
 {
-background-image: url("file:///C:/Users/Acs/Desktop/bab/tpbab/presentation-benbab/photos/plage.jpg");
+background-image: url("file:///photos/plage.jpg");
 background-size: cover;
 width: 50%;
 height: 500px;
