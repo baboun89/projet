@@ -61,7 +61,7 @@ position: relative;bottom: 580px;
 text-align: center;
 font-size: 200%;
 margin-left: 50%;
-} 
+}
 footer
 {
     background-image: url("../photos/sable.jpg");
@@ -69,3 +69,4 @@ footer
     background-size: 120%;
     margin-top: -620px;
 }
+
