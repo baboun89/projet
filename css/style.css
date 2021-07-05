@@ -3,6 +3,7 @@ header
     background-image: url("../photos/ciel.webp");
     background-size: 100%;
     height: 300px;
+    border-radius: 15px;
 }
 h1
 {
@@ -15,11 +16,18 @@ h1
     font-size: 240%;
     font-family: sans-serif;
 }
+h2
+{
+    padding-top: 100px;
+    color:#d80c0c;
+}
 img
 {
     float: right;
     border-radius: 400px;
-    position: relative;bottom: 150px;right: 10px;
+    position: relative;
+    bottom: 150px;
+    right: 10px;
     border-color: darkred;
 }
 ul li
@@ -36,9 +44,10 @@ p
 {
     text-align: center;
     font-size: 30px;
-    color: #080008;
-    position: relative;top: 100px;
+     position: relative;
+    top: 100px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
 }
 #philippe
 {
@@ -46,27 +55,34 @@ background-image: url("../photos/plage.jpg");
 background-size: cover;
 width: 50%;
 height: 500px;
-position :relative;bottom: 40px;
+position :relative;
+bottom: -40px;
+right: 5px;
 text-align: center;
 font-size: 200%;
+border-radius: 15px;
+
 }
 #ben
 {
 background-image: url("../photos/plage2.jpg");
 background-size: cover;
-background-color: rgb(0, 255, 242);
 width: 50%;
 height: 500px;
-position: relative;bottom: 580px;
+position: relative;
+bottom: 500px;
+left: 5px;
 text-align: center;
 font-size: 200%;
 margin-left: 50%;
+border-radius: 15px;
 }
 footer
 {
     background-image: url("../photos/sable.jpg");
-    height: 1000px;
-    background-size: 120%;
-    margin-top: -620px;
+    height: 600px;
+    background-size: cover ;
+    margin-top: -500px;
+    
 }
 
