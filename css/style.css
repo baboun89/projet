@@ -18,9 +18,8 @@ h1
 img
 {
     float: right;
-    padding-bottom: 200px;
     border-radius: 400px;
-    position: relative;bottom: 150px;right: 20px;
+    position: relative;bottom: 150px;right: 10px;
     border-color: darkred;
 }
 ul li
@@ -67,6 +66,6 @@ footer
 {
     background-image: url("../photos/sable.jpg");
     height: 1000px;
-    position: relative;bottom: 620px;
-    background-size: 100%;
+    background-size: 120%;
+    margin-top: -620px;
 }
